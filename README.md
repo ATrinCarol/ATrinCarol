@@ -19,8 +19,8 @@ Adoro conversar e você pode me conhecer mais pelo meu perfil do LinkedIn ou meu
 
 <div align="center">
   <a href="https://github.com/ATrinCarol">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ATrinCarol&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATrinCarol&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ATrinCarol&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATrinCarol&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   ##
