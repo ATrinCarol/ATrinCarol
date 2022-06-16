@@ -35,6 +35,12 @@ Adoro conversar e você pode me conhecer mais pelo meu perfil do LinkedIn ou meu
   <img align="center" alt="Carol-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="Carol-Heroku" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg">
   
+  </div>
+  
+  ##
+  
+  <div>
+  
   ![Snake animation](https://github.com/ATrinCarol/ATrinCarol/blob/output/github-contribution-grid-snake.svg)
   
   </div>
