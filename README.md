@@ -10,6 +10,8 @@ Adoro conversar e você pode me conhecer mais pelo meu perfil do LinkedIn ou meu
 <div>
     <a href="https://www.linkedin.com/in/atrindadecarol/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href = "mailto:caroline.alvestrindade@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+    
+![Snake animation](https://github.com/ATrinCarol/ATrinCarol/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
@@ -38,13 +40,6 @@ Adoro conversar e você pode me conhecer mais pelo meu perfil do LinkedIn ou meu
   </div>
   
   ##
-  
-  <div>
-  
-  ![Snake animation](https://github.com/ATrinCarol/ATrinCarol/blob/output/github-contribution-grid-snake.svg)
-  
-  </div>
-  
   
   
    
