@@ -2,9 +2,31 @@
 <img align="right" alt="Carol-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/986924655212392478/986924792479375360/ReadyPlayerMe-Avatar.png">
 </div>
 
-### Olá, pessoa! Eu sou a Carol Trindade! 
+### Olá, pessoa! Eu sou a Carol Trindade! Decidi transicionar de carreira em Abril de 2022 após me apaixonar e querer mergulhar de cabeça em processo de desenvolvimento de software.
 
-Aceita uma xícara de café? ☕ Fique a vontade!
+*Ressalto alguns momentos importantes até o momento:*
+◾ Curso de "Pessoa Desenvolvedora Web FullStack" pela Generation, conclusão em Julho/2022;
+◾ Curso de "Soluções em Nuvem" pelo programa re/Start da AWS em parceria com a Campinho Digital, conclusão em novembro de 2022;
+◾ Experiência como Product Owner na empresa OrangeBox;
+◾ Início da pós-gradução em "Desenvolvimento de Software com práticas DevOps" pela Unicsul, conclusão prevista em Dezembro de 2023;
+◾ No momento sou aluna da Mais1Code na turma em parceria com o GRUPO SBF e estou estudando para prestar o vestibular para o curso de Ciência de Dados na Univesp.
+
+Sigo constantemente aprofundando conhecimentos em:
+💻
+Java
+NodeJS
+JavaScript/TS
+-
+Angular
+React
+-
+MySQL
+MongoDB
+-
+DevOps
+Metodologias Ágeis
+CI/CD
+
 Adoro conversar e você pode me conhecer mais pelo meu perfil do LinkedIn ou meu email:
 
 <div>
