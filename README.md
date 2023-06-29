@@ -24,7 +24,7 @@ Sigo constantemente aprofundando conhecimentos em:
 
 💻 Java - NodeJS - JavaScript/TS
 
-🎨 Angular - React
+🎨 Spring - Angular - React
 
 🎲 MySQL - MongoDB
 
