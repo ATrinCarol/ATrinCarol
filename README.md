@@ -16,7 +16,9 @@
 
 ◾ AWS Certified Cloud Practitioner em Dezembro de 2022;
 
-◾ Atualmente sou aluna da Mais1Code na turma backend em parceria com o GRUPO SBF e estou estudando para o vestibular da Univesp, curso Ciência de Dados.
+◾ Curso de Desenvolvimento Web com foco backend na turma Mais1Code em parceria com o GRUPO SBF, conclusão junho de 2023.
+
+◾ Analista Soluções I na Capgemini.
 <hr>
 
 Sigo constantemente aprofundando conhecimentos em:
